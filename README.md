@@ -1,1 +1,1 @@
-# StarMindsASupport
+# StarMindsSupport
